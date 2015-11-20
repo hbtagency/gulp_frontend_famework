@@ -1,5 +1,3 @@
-# gulp_frontend_famework
-
 Readme:
 
 1.Install Node.js
